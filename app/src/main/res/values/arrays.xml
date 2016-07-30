@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_words">
+        <item>铃铛</item>
+        <item>鱼</item>
+        <item>鹅</item>
+        <item>伞</item>
+        <item>蛇</item>
+        <item>虎</item>
+        <item>牛</item>
+        <item>鸡</item>
+        <item>马</item>
+        <item>酒</item>
+
+        <item>棒球</item>
+        <item>筷子</item>
+        <item>婴儿</item>
+        <item>医生</item>
+        <item>钥匙</item>
+        <item>鹦鹉</item>
+        <item>石榴</item>
+        <item>石器</item>
+        <item>篱笆</item>
+        <item>泥鳅</item>
+    </array>
+
+    <array name="array_imgUrls">
+        <item>http://download.easyicon.net/png/1169222/128/</item>
+        <item>http://download.easyicon.net/png/1167510/128/</item>
+        <item>http://download.easyicon.net/png/1159156/128/</item>
+        <item>http://download.easyicon.net/png/500369/72/</item>
+        <item>http://download.easyicon.net/png/521093/72/</item>
+        <item>http://download.easyicon.net/png/544101/72/</item>
+        <item>http://download.easyicon.net/png/515326/96/</item>
+        <item>http://download.easyicon.net/png/1154244/128/</item>
+        <item>http://download.easyicon.net/png/1067605/72/</item>
+        <item>http://download.easyicon.net/png/11623/72/</item>
+        <item>http://download.easyicon.net/png/1156321/128/</item>
+        <item>http://download.easyicon.net/png/1177352/128/</item>
+        <item>http://download.easyicon.net/png/1086664/128/</item>
+        <item>http://download.easyicon.net/png/26518/72/</item>
+        <item>http://download.easyicon.net/png/1201119/128/</item>
+        <item>http://download.easyicon.net/png/1178341/128/</item>
+        <item>http://download.easyicon.net/png/1101901/128/</item>
+        <item>http://download.easyicon.net/png/572415/128/</item>
+        <item>http://download.easyicon.net/png/1063565/72/</item>
+        <item>http://download.easyicon.net/png/1150569/128/</item>
+        <item>http://download.easyicon.net/png/564720/72/</item>
+    </array>
+</resources>
